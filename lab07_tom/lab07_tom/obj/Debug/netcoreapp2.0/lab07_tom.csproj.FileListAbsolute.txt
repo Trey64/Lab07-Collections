@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\bin\Debug\netcoreapp2.0\lab07_tom.deps.json
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\bin\Debug\netcoreapp2.0\lab07_tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\bin\Debug\netcoreapp2.0\lab07_tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\bin\Debug\netcoreapp2.0\lab07_tom.dll
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\bin\Debug\netcoreapp2.0\lab07_tom.pdb
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.dll
+C:\Users\Tom\source\repos\Lab07-Collections\lab07_tom\lab07_tom\obj\Debug\netcoreapp2.0\lab07_tom.pdb
